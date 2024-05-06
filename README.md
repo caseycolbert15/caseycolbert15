@@ -1,6 +1,6 @@
 # Hello, I'm Casey Colbert
-<a href="www.linkedin.com/in/casey-colbert-25897558"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.linkedin.com/in/casey-colbert-25897558"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 Experienced IT professional with a robust foundation in computer systems and networking, poised to transition into the dynamic field of cybersecurity. 
 Proficient in implementing and managing secure network connections and endpoint security solutions. 
 Eager to leverage technical acumen and passion for cybersecurity to tackle new challenges and safeguard digital environments against evolving threats.
@@ -9,18 +9,19 @@ Eager to leverage technical acumen and passion for cybersecurity to tackle new c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="Projects/README.md">Projects</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="Cybersecurity-Labs">Labs</a>|
+| Vulnrability Detection and Correction         | <a href="Projects/README.md">Projects</a>|
+| Incident Response Planning and Execution      | <a href="Cybersecurity-Labs">Labs</a>|
+| Case Management with TheHive                  | <a href="Projects/README.md">Projects</a>|
 
 ## Tools
-SIEM – Wazuh, Azure Data Explorer, Nessus  <br>
-Automation – MDT(Microsoft Deployment Toolkit), PDQ software deployments, Autopilot  <br>
-Network Security – Wireshark, Active Directory, Global protect VPN, RSA MFA, Microsoft Authenticator  <br>
-Inventory Management – ITIL, PDQ, Cherwell  <br>
+SIEM – Wazuh, Azure Data Explorer <br>
+Automation – MDT(Microsoft Deployment Toolkit), PDQ software deployments, Autopilot  
+Network Security – OPNsense, Suricata, Wireshark, Active Directory, Global protect VPN, RSA MFA, Microsoft Authenticator  
+Vulnrability Management - Nessus, Wazuh  
+Automation and ticketing - Wazuh, gmail
+Inventory Management – ITIL, PDQ, Cherwell  
 
 ### Network
 <div>
@@ -48,5 +49,5 @@ Inventory Management – ITIL, PDQ, Cherwell  <br>
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- [Cybersecurity Labs](Cybersecurity-Labs)
+- [Home networking Projects](Projects)
