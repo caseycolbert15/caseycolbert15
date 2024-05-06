@@ -11,7 +11,7 @@ Eager to leverage technical acumen and passion for cybersecurity to tackle new c
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/caseycolbert15/Cybersecurity-Labs">Labs</a>|
-| Vulnrability Detection and Correction         | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
+| Vulnerability Detection and Correction         | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/caseycolbert15/Cybersecurity-Labs">Labs</a>|
 | Case Management with TheHive                  | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
 
@@ -19,7 +19,7 @@ Eager to leverage technical acumen and passion for cybersecurity to tackle new c
 SIEM – Wazuh, Azure Data Explorer <br>
 Automation – MDT(Microsoft Deployment Toolkit), PDQ software deployments, Autopilot  
 Network Security – OPNsense, Suricata, Wireshark, Active Directory, Global protect VPN, RSA MFA, Microsoft Authenticator  
-Vulnrability Management - Nessus, Wazuh  
+Vulnerability Management - Nessus, Wazuh  
 Automation and ticketing - Wazuh, gmail
 Inventory Management – ITIL, PDQ, Cherwell  
 
