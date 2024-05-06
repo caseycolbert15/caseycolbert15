@@ -9,11 +9,11 @@ Eager to leverage technical acumen and passion for cybersecurity to tackle new c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="Projects/README.md">Projects</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="Cybersecurity-Labs">Labs</a>|
-| Vulnrability Detection and Correction         | <a href="Projects/README.md">Projects</a>|
-| Incident Response Planning and Execution      | <a href="Cybersecurity-Labs">Labs</a>|
-| Case Management with TheHive                  | <a href="Projects/README.md">Projects</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/caseycolbert15/Cybersecurity-Labs">Labs</a>|
+| Vulnrability Detection and Correction         | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/caseycolbert15/Cybersecurity-Labs">Labs</a>|
+| Case Management with TheHive                  | <a href="https://github.com/caseycolbert15/Projects">Projects</a>|
 
 ## Tools
 SIEM – Wazuh, Azure Data Explorer <br>
@@ -49,5 +49,5 @@ Inventory Management – ITIL, PDQ, Cherwell
 </div>
 
 ## Projects
-- [Cybersecurity Labs](Cybersecurity-Labs)
-- [Home networking Projects](Projects)
+- [Cybersecurity Labs](https://github.com/caseycolbert15/Cybersecurity-Labs)
+- [Home networking Projects](https://github.com/caseycolbert15/Projects)
